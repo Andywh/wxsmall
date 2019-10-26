@@ -1,7 +1,0 @@
-{
-  "usingComponents": {
-    "component-tag-name": "/pages/test/test",
-    "l-icon": "/miniprogram_npm/lin-ui/icon/index",
-    "water-flow": "/pages/demo/demo"
-  }
-}
